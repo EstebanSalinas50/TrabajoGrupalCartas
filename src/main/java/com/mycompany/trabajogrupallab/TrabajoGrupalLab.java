@@ -25,7 +25,7 @@ public class TrabajoGrupalLab {
     public static void main(String[] args) {
         
         Baraja baraja=new Baraja();
-        
+        System.out.println("Testeo del Ejercicio");
      baraja.creaBaraja();
 //     baraja.mostra();
     
