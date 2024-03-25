@@ -28,10 +28,20 @@ public class TrabajoGrupalLab {
         
      baraja.creaBaraja();
 //     baraja.mostra();
-      System.out.println("..............");
+    
      
         baraja.barajar();
-      
+      baraja.mostra();
+        System.out.println("..............");
+      baraja.siguienteCarta();
+        System.out.println("");
+      baraja.cartasDispo();
+        System.out.println("");
+      baraja.darCartas(5);
+      baraja.cartasDispo();
+      baraja.cartasMonton();
+        System.out.println("");
+      baraja.mostrarBaraja();
         
         
     }
